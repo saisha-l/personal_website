@@ -22,7 +22,7 @@
           0% { transform: translateX(0); }
           100% { transform: translateX(-50%); }
         }
-        .marquee-inner { display: flex; animation: marquee 24s linear infinite; width: max-content; }
+        .marquee-inner { display: flex; animation: marquee 65s linear infinite; width: max-content; }
 
         .nav-link {
           font-family: 'Cormorant SC', serif;
